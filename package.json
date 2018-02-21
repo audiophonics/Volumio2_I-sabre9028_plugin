@@ -1,0 +1,21 @@
+{
+  "name": "es9028q2m",
+  "version": "1.0.0",
+  "description": "es9028q2m Driver plugin for Volumio2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Xiao",
+  "license": "ISC",
+  "volumio_info": {
+    "prettyName": "es9028q2m",
+    "icon": "fa-microchip",
+    "plugin_type": "audio_interface",
+    "boot_priority": 10
+  },
+  "dependencies": {
+    "kew": "^0.7.0",
+    "node-mpd": "^0.0.1"
+  }
+}
