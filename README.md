@@ -8,9 +8,9 @@ Connecting using SSH (volumio/volumio)
 Download and install plugin :
 
 ```
-cd /data/plugins/audio_interface/
+cd /home/volumio
 git clone https://github.com/audiophonics/Volumio2_I-sabre9028_plugin.git
-cd /data/plugins/audio_interface/es9028q2m
+cd /home/volumio/Volumio2_I-sabre9028_plugin/
 volumio plugin install
 ```
 
