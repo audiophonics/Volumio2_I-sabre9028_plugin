@@ -15,3 +15,7 @@ volumio plugin install
 ```
 
 You now just have to activate it, reboot, and select I-Sabre into Volumio output device.
+
+
+## Forum Thread :
+http://forum.audiophonics.fr/viewtopic.php?f=12&t=2022&p=8583
