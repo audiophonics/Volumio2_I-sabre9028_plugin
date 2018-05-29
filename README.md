@@ -5,7 +5,7 @@ To activate SSH connection, create a "ssh" file named to /boot directory
 
 Connecting using SSH (volumio/volumio)
 
-Download and install plugin :
+Download and install plugin : (deprecated version)
 
 ```
 cd /home/volumio
@@ -16,6 +16,15 @@ volumio plugin install
 
 You now just have to activate it, reboot, and select I-Sabre into Volumio output device.
 
+
+##  Installation of zip version :
+```
+cd /home/volumio
+wget https://github.com/audiophonics/Volumio2_I-sabre9028_plugin/raw/master/Q2M_kernel_4.14.29.zip
+miniunzip Q2M_kernel_4.14.29.zip
+cd Q2M
+volumio plugin install
+```
 
 ## Forum Thread :
 http://forum.audiophonics.fr/viewtopic.php?f=12&t=2022&p=8583
