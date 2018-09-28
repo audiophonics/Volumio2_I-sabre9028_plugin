@@ -8,8 +8,8 @@ To activate SSH connection, create a "ssh" file named to /boot directory
 ** Replace file name if needed **
 ```
 cd /home/volumio
-wget https://github.com/audiophonics/Volumio2_I-sabre9028_plugin/raw/master/Q2M_kernel_4.14.62.zip
-miniunzip Q2M_kernel_4.14.62.zip
+wget https://github.com/audiophonics/Volumio2_I-sabre9028_plugin/raw/master/Q2M_kernel_4.14.69.zip
+miniunzip Q2M_kernel_4.14.69.zip
 cd Q2M
 volumio plugin install
 ```
